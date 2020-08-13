@@ -1,0 +1,47 @@
+body{
+    padding: 10px;
+    padding-top: 0px;
+}
+
+h1 {
+    color: #377f8a;
+    font-size: 50px;
+    font-family: 'Oswald', Arial;
+}
+
+img {
+    width: 95%;
+}
+
+div {
+    background-color: lightblue;
+}
+
+ul {
+    list-style-type: none;
+    width: 100%;
+    padding: 0px;
+}
+#about-image{
+    width: 200px;
+}
+#proj2{
+    background-color: lightpink;
+    width: 50%;
+}
+a:hover{
+    font-weight: bold;
+}
+a:active{
+    color: blue;
+}
+.project-card{
+    width: 30%;
+    padding: 10px;
+    margin: 20px;
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    padding: 15px;
+}
